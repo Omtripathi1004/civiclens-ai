@@ -3,7 +3,8 @@
 > **GovTech 2.0 Civic Intelligence Platform**  
 > AI-powered complaint ingestion, structured field extraction, explainable 5-factor priority scoring, Mappls GIS mapping, spatial duplicate clustering, and municipal SLA resolution workflows.
 
-**🌐 Live Vercel Deployment:** [https://alankrit-one.vercel.app](https://alankrit-one.vercel.app)
+**🌐 Live Vercel Deployment:** [https://alankrit-one.vercel.app](https://alankrit-one.vercel.app)  
+**💻 GitHub Repository:** [https://github.com/Omtripathi1004/civiclens-ai](https://github.com/Omtripathi1004/civiclens-ai)
 
 Designed for Indian Municipal Corporations (MCD Delhi, BBMP Bengaluru, BMC Mumbai) in accordance with the **CIVICLENS AI Master Build Prompt** and **Mappls Maps Addendum**.
 
